@@ -42,7 +42,7 @@ repositories {
 //}
 
 bootJar {
-    baseName = 'user-api_server'
+    baseName = 'user-api-server'
     version =  '1.0'
 }
 
