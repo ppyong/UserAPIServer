@@ -52,6 +52,7 @@ dependencies {
 	compile('com.google.code.gson:gson:2.8.5')
 	compile('com.oracle:ojdbc6:12.1.0.2')
 	compile('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client')
+	compile('org.springframework.cloud:spring-cloud-starter-config')
 }
 
 docker {
